@@ -1,0 +1,12 @@
+{
+  "name": "sitio-estatico",
+  "version": "1.0.0",
+  "description": "Sitio web estático para Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
